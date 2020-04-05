@@ -1,0 +1,4 @@
+ref,name,desc,tags,Third Party Data Centre,risk_assess_cons,Part Outsourced,ITSO Delegate,ReportingLink,HSBC Data Centre,Application Instance ID,Application Version ID,App Instance Name,ITSO,BIA ID,Confidentiality,Integrity,Availability,BIA_EIM,Data Classification,BIA
+product-demo,product demo 1 from batch, testprod, simpledemo,sample1,43782260,sample1,sample1,sample1,sample1,sample1,sample1,sample1,sample1,sample1,sample1,sample1,sample1,sample1,sample1,sample1
+aditya-raspberry, aditya-raspberry, raspberry projects, dummy,sample2,43782260,sample2,sample2,sample2,sample2,sample2,sample2,sample2,sample2,sample2,sample2,sample2,sample2,sample2,sample2,sample2
+aws-demo, aws demo from batch, aws demo from batch to be deleted, dummy,sample3,43782260,sample3,sample3,sample3,sample3,sample3,sample3,sample3,sample3,sample3,sample3,sample3,sample3,sample3,sample3,sample3
